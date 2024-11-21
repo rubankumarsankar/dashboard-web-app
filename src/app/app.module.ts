@@ -9,7 +9,6 @@ import { SidenavComponent } from './comm/sidenav/sidenav.component';
 import { DashboardComponent } from './comm/dashboard/dashboard.component';
 import { ProductsComponent } from './comm/products/products.component';
 import { StatisticsComponent } from './comm/statistics/statistics.component';
-import { CoupensComponent } from './comm/coupens/coupens.component';
 import { PagesComponent } from './comm/pages/pages.component';
 import { MediaComponent } from './comm/media/media.component';
 import { SettingsComponent } from './comm/settings/settings.component';
@@ -21,9 +20,7 @@ import { SublevelMenuComponent } from './comm/sidenav/sublevel-menu.component';
     BodyComponent,
     SidenavComponent,
     DashboardComponent,
-    ProductsComponent,
     StatisticsComponent,
-    CoupensComponent,
     PagesComponent,
     MediaComponent,
     SettingsComponent,
